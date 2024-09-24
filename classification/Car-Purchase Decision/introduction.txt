@@ -1,0 +1,9 @@
+This dataset contains details of 1000 customers who intend to buy a car, considering their annual salaries.
+You have to Classify Whether Respective user Will Able to buy car or not Using Machine Learning.
+Columns:
+
+*   User ID
+*   Gender
+*   Age
+*   Annual Salary
+*   Purchase Decision (No = 0; Yes = 1)
