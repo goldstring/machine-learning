@@ -1,4 +1,4 @@
-<h1>Medical Expenses Dataset Overview</h1>
+<h1>Medical Expenses/Insurance Cost Prediction Dataset Overview</h1>
     <h2>What is the dataset about?</h2>
     <p>The dataset contains information about people and their medical expenses (insurance charges). It has factors like:</p>
     <ul>
