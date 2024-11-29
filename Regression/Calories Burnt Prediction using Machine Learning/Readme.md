@@ -1,3 +1,5 @@
+
+<h1>Calories Burnt Prediction using Machine Learning</h1>
 <h1>Problem Statement</h1>
     <p>
         Design and implement a <strong>calories prediction model</strong> to estimate the number of calories burned during physical activities based on demographic, physiological, and activity-related data. The goal is to build a regression model that accurately predicts the <strong>calories burned (Calories)</strong> using features such as age, gender, height, weight, activity duration, heart rate, and body temperature. This model can help in personalizing fitness plans and monitoring health.
